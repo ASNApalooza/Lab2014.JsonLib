@@ -3,3 +3,6 @@
 /Properties/
 /*.vrproj
 /*.vrproj.user
+/app_assets/.sass-cache/
+/*.sublime-project
+/*.sublime-workspace
